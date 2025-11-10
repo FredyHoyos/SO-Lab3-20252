@@ -55,13 +55,14 @@ Implementa un programa concurrente donde un hilo trabajador genera los primeros 
 
 - Comunicación a través de memoria compartida.    
   
-⚙️ Compilación y Ejecución  
-# Compilar programas
-gcc -o pi_s pi_s.c -lm
-gcc -o pi_p pi_p.c -lpthread -lm
-gcc -o fibonacci fibonacci.c -lpthread
-
-# Ejecutar
-./pi_s
-./pi_p 200000000 4
-./fibonacci 15
+⚙️ Compilación y Ejecución    
+# Compilar programas  
+gcc -o pi_s pi_s.c -lm  
+gcc -o pi_p pi_p.c -lpthread -lm  
+gcc -o fibonacci fibonacci.c -lpthread  
+  
+# Ejecutar  
+./pi_s  
+./pi_p 200000000 4  
+./fibonacci 15  
+  
