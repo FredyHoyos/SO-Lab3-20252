@@ -3,6 +3,9 @@ Juan Manuel Restrepo
 Fredy Hoyos Cardenas  
 Dorian Garcia    
   
+Video explicativo: https://youtu.be/MIWQ_QnAmjw  
+  
+  
 Estudiantes de la Universidad de Antioquia, ingenieria de sistemas.  
   
 🧮 Laboratorio 3 – Programación Concurrente con Pthreads (C)  
